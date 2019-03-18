@@ -1,0 +1,6 @@
+{
+	"env":{
+		"MONGO_PASS": "Sifrazamongo0451",
+		"JWT_KEY":"SIFRA"
+	}
+}
