@@ -1,2 +1,1 @@
-# RESTful-API-node.js
-Practice project
+Node shop
